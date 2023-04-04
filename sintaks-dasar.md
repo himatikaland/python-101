@@ -1,6 +1,6 @@
 # PYTHON 101 BY HIMATIKA
 
-## Dalam Python, ada beberapa sintaks dasar yang perlu kamu ketahui untuk menulis kode yang rapi dan mudah dipahami. Berikut adalah penjelasan mengenai indentasi, komentar, dan baris perintah dalam Python.
+## Dalam Python, ada beberapa sintaks dasar yang perlu kamu ketahui untuk menulis kode yang rapi dan mudah dipahami. Berikut adalah penjelasan mengenai indentasi, komentar, dan baris perintah dalam Python
 
 Mengapa penting: Memahami sintaks dasar Python penting untuk menulis kode yang rapi, mudah dibaca, dan bebas dari kesalahan sintaksis.
 
