@@ -54,3 +54,7 @@ Gunakan 4 spasi untuk setiap level indentasi, bukan tab.
 Batasi panjang baris kode hingga 79 karakter.
 Gunakan spasi setelah koma dan sebelum operator dalam ekspresi.
 Gunakan kata_kunci_lowercase_untuk_nama_fungsi_dan_variabel.
+
+referensi:
+
+[website](https://www.malasngoding.com/syntax-dasar-python/)

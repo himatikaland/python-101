@@ -58,3 +58,7 @@ byte_angka = b'Halo Dunia' #byte
 bytearray_angka = bytearray(b'Halo Dunia') #bytearray
 memoryview_angka = memoryview(bytearray(b'Halo Dunia')) #memoryview
 ```
+
+referensi:
+
+[website](https://realpython.com/python-data-types/)

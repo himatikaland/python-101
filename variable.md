@@ -59,3 +59,7 @@ luas_segitiga(panjang, lebar)
 # Mencoba mengakses variable lokal 'luas' di luar fungsi akan menyebabkan NameError
 # print("Luas segitiga (di luar fungsi):", luas)  # Jangan jalankan baris ini, akan menyebabkan NameError
 ```
+
+referensi:
+
+[website](https://realpython.com/python-variables/)
