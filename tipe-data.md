@@ -1,6 +1,6 @@
 # PYTHON 101 BY HIMATIKA
 
-## Dalam Python, ada bermacam-macam tipe data, berikut adalah penjelasan mengenai tipe data yang umum digunakan dalam Python.
+## Dalam Python, ada bermacam-macam tipe data, berikut adalah penjelasan mengenai tipe data yang umum digunakan dalam Python
 
 1. Bilangan (Numbers): Python menyediakan tiga jenis bilangan, yaitu bilangan bulat (integer), bilangan pecahan (float), dan bilangan kompleks (complex).
 
@@ -28,15 +28,15 @@
 
 13. Dictionary (dict): Dictionary adalah koleksi berpasangan kunci-nilai yang tidak berurutan. Dictionary menggunakan tanda kurung kurawal {} dan tanda titik dua : untuk memisahkan kunci dan nilai. Contoh: `{'nama': 'Budi', 'umur': 25, 'pekerjaan': 'Programmer'}`.
 
-**dibawah ini jarang digunakan**
+### dibawah ini jarang digunakan
 
-14. Array (array.array): Array adalah koleksi berurutan dari elemen dengan tipe data yang sama. Array lebih efisien dalam hal penggunaan memori daripada list. Untuk menggunakan array, kamu perlu mengimpor modul array. Contoh: from array import array; a = array('i', [1, 2, 3, 4]).
+- Array (array.array): Array adalah koleksi berurutan dari elemen dengan tipe data yang sama. Array lebih efisien dalam hal penggunaan memori daripada list. Untuk menggunakan array, kamu perlu mengimpor modul array. Contoh: from array import array; a = array('i', [1, 2, 3, 4]).
 
-15. Byte (bytes): Byte adalah urutan bilangan bulat dalam rentang 0-255, yang tidak dapat diubah (immutable). Byte digunakan untuk data biner seperti gambar atau file audio. Contoh: b = b'Halo Dunia'.
+- Byte (bytes): Byte adalah urutan bilangan bulat dalam rentang 0-255, yang tidak dapat diubah (immutable). Byte digunakan untuk data biner seperti gambar atau file audio. Contoh: b = b'Halo Dunia'.
 
-16. Bytearray (bytearray): Bytearray mirip dengan byte, tetapi dapat diubah (mutable). Contoh: ba = bytearray(b'Halo Dunia').
+- Bytearray (bytearray): Bytearray mirip dengan byte, tetapi dapat diubah (mutable). Contoh: ba = bytearray(b'Halo Dunia').
 
-17. Memoryview (memoryview): Memoryview adalah objek yang memungkinkan kamu mengakses memori dari objek lain tanpa menggandakan data tersebut. Memoryview berguna untuk pengolahan data yang efisien dalam struktur data besar. Contoh: mv = memoryview(bytearray(b'Halo Dunia')).
+- Memoryview (memoryview): Memoryview adalah objek yang memungkinkan kamu mengakses memori dari objek lain tanpa menggandakan data tersebut. Memoryview berguna untuk pengolahan data yang efisien dalam struktur data besar. Contoh: mv = memoryview(bytearray(b'Halo Dunia')).
 
 beberapa contoh berikut:
 
