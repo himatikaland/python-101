@@ -1,6 +1,6 @@
 # PYTHON 101 BY HIMATIKA
 
-## Dalam Python ada banyak cara variable dapat didefinisikan. Berikut adalah penjelasan mengenai cara-cara tersebut.
+## Dalam Python ada banyak cara variable dapat didefinisikan. Berikut adalah penjelasan mengenai cara-cara tersebut
 
 1. Pengenalan variable: variable dalam Python adalah label yang merujuk pada suatu nilai dalam memori komputer. variable memungkinkan kita untuk menyimpan, mengakses, dan mengubah nilai dalam kode kita.
 
