@@ -8,7 +8,9 @@
 
 - Set adalah struktur data yang memungkinkan kita untuk menyimpan kumpulan data unik (tidak ada duplikasi) dalam satu variabel. Set bersifat mutable dan memiliki sifat matematika seperti union, intersection, dan difference.
 
-## Dalam penggunaannya, list, tuple, dan set dapat digunakan untuk menyimpan, mengelola, dan memanipulasi data dengan lebih efisien.
+- Dictionary (kamus) adalah implementasi python dalam struktur data yang secara umum dikenal sebagai array asosiatif. Sebuah dictionary terdiri dari koleksi pasangan key-value. Setiap pasangan key-value memetakan key nya ke value yang terasosiasi dengannya. Kamu bisa mendefinisikan dictionary dengan menaruh pasangan key-value yang dipisahkan oleh koma dalam sebuah curly bracket atau kurung kurawal {}. Tanda titik koma ; memisahkan tiap kunci dari value yang terasosiasi dengannya
+
+## Dalam penggunaannya, list, tuple, set dan dictionary dapat digunakan untuk menyimpan, mengelola, dan memanipulasi data dengan lebih efisien.
 
 ## List
 
@@ -90,4 +92,38 @@ print(var_set)
 ```python
 var_set.add(11)
 print(var_set)
+```
+
+## Dictionary
+
+### contoh:
+
+```python
+mobil = {
+    "merk": "Toyota",
+    "model": "Camry",
+    "tahun": 2020,
+    "warna": ["merah", "putih", "biru"],
+    "transmisi": "Otomatis",
+    "harga": 350000000
+}
+
+print(mobil["merk"])
+```
+
+### menambah
+
+```python
+data = {"nama": "Budi", "umur": 25}
+data["pekerjaan"] = "Programmer"  # Menambahkan kunci 'pekerjaan' dan nilai 'Programmer'
+print(data)
+```
+
+
+### menghapus
+
+```python
+data = {"nama": "Budi", "umur": 25, "pekerjaan": "Programmer"}
+del data["pekerjaan"]  # Menghapus kunci 'pekerjaan' dan nilai yang terkait
+print(data)
 ```
